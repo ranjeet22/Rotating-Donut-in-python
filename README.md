@@ -2,8 +2,6 @@
 
 A mesmerizing real-time 3D **ASCII torus (donut)** rendered using Pygame — animated with smooth rotation, dynamic lighting, and vibrant rainbow color cycling. Inspired by Andy Sloane's legendary terminal donut, reimagined with modern visuals.
 
-![screenshot](https://upload.wikimedia.org/wikipedia/commons/2/2e/ASCII-Donut-Demo.gif)  
-*Illustrative only — actual output is rendered in a Pygame window with colors.*
 
 ---
 
